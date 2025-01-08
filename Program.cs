@@ -49,8 +49,10 @@ namespace lesson12
                     Console.WriteLine();
                 }else
                 {
+                    Console.WriteLine();
                     Console.WriteLine("First you must add the person to the list"); 
                     Console.WriteLine("Please enter 1");
+                    break;
                 }
                   
             }
@@ -62,9 +64,13 @@ namespace lesson12
             {
                 if (persons[i, 0] == id)
                 {
+                    Console.WriteLine("Please enter Name");
                     persons[i, 1] = Console.ReadLine();
+                    Console.WriteLine("Please enter Surname");
                     persons[i, 2] = Console.ReadLine();
+                    Console.WriteLine("Please enter Age");
                     persons[i, 3] = Console.ReadLine();
+                    Console.WriteLine("Please enter Profession");
                     persons[i, 4] = Console.ReadLine();
                     Console.WriteLine();
                     Console.WriteLine("List Changed");

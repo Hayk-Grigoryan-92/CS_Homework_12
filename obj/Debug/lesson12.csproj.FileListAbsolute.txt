@@ -5,3 +5,10 @@ C:\Users\ASUS\Desktop\C#\Lesson12\lesson12\obj\Debug\lesson12.csproj.AssemblyRef
 C:\Users\ASUS\Desktop\C#\Lesson12\lesson12\obj\Debug\lesson12.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\C#\Lesson12\lesson12\obj\Debug\lesson12.exe
 C:\Users\ASUS\Desktop\C#\Lesson12\lesson12\obj\Debug\lesson12.pdb
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\bin\Debug\lesson12.exe.config
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\bin\Debug\lesson12.exe
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\bin\Debug\lesson12.pdb
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\obj\Debug\lesson12.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\obj\Debug\lesson12.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\obj\Debug\lesson12.exe
+C:\Users\ASUS\Desktop\C#\Lesson12\CS_Homework_12\obj\Debug\lesson12.pdb
