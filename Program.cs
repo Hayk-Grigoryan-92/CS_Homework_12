@@ -47,6 +47,10 @@ namespace lesson12
                         Console.Write(users[i, j] + " ");
                     }
                     Console.WriteLine();
+                }else
+                {
+                    Console.WriteLine("First you must add the person to the list"); 
+                    Console.WriteLine("Please enter 1");
                 }
                   
             }
@@ -103,7 +107,6 @@ namespace lesson12
                     }
                     Console.WriteLine();
                 }
-
             }
         }
 

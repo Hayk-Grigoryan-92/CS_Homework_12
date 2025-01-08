@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\C#\\Lesson12\\lesson12\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\C#\\Lesson12\\CS_Homework_12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F1BF396-41A1-48C0-851E-02D06FC7EABB}|lesson12.csproj|c:\\users\\asus\\desktop\\c#\\lesson12\\lesson12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F1BF396-41A1-48C0-851E-02D06FC7EABB}|lesson12.csproj|c:\\users\\asus\\desktop\\c#\\lesson12\\cs_homework_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F1BF396-41A1-48C0-851E-02D06FC7EABB}|lesson12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\C#\\Lesson12\\lesson12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\C#\\Lesson12\\CS_Homework_12\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\C#\\Lesson12\\lesson12\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\C#\\Lesson12\\CS_Homework_12\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T15:11:35.586Z",
               "EditorCaption": ""
